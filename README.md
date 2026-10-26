@@ -3,7 +3,7 @@
 A responsive, client-side Book Reading List web application developed for **Lecture 11** coursework at JECRC University by **Ayan Khan**.
 
 ## Live Application
-- **Live Deployment**: [https://ayankhanbebea-lgtm.github.io/book-reading-list-application/](https://ayankhanbebea-lgtm.github.io/book-reading-list-application/)
+- **Live Deployment**:https://github.com/retroabhi007/book-reading-list-application
 
 ---
 
@@ -51,6 +51,6 @@ This application helps students and developers curate, organize, and monitor the
 ---
 
 ## Author
-- **Ayan Khan** (Enrolment No: `25BCON1174`)
+- **ABHISHEK SINGH** (Enrolment No: `25BCON1202`)
 - Department of Computer Science & Engineering, JECRC University
-- GitHub: [@ayankhanbebea-lgtm](https://github.com/ayankhanbebea-lgtm)
+- GitHub:https://github.com/retroabhi007
